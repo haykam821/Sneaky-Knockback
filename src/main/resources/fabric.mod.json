@@ -1,0 +1,21 @@
+{
+	"schemaVersion": 1,
+	"id": "sneakyknockback",
+	"version": "${version}",
+	"name": "Sneaky Knockback",
+	"description": "Fixes server-side knockback being inconsistent for players that are sneaking.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Sneaky-Knockback#readme",
+		"issues": "https://github.com/haykam821/Sneaky-Knockback/issues"
+	},
+	"mixins": [
+		"sneakyknockback.mixin.json"
+	],
+	"license": "MIT",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
