@@ -15,6 +15,7 @@
 		"sneakyknockback.mixin.json"
 	],
 	"license": "MIT",
+	"icon": "assets/sneakyknockback/icon.png",
 	"depends": {
 		"fabricloader": ">=0.4.0"
 	}
